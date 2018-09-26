@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 42px;
+  color: #8f5b0c;
+  background-color: blue;
+  text-decoration: underline;
+  font-style: italic;
+  margin: 30px 400px 15px 20px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
